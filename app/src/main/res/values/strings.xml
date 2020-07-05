@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">akfaTraders</string>
+
+
+    <array name="store">
+        <item>Client Option</item>
+        <item>M/S Akfa Traders</item>
+        <item>Akfa Mills</item>
+        <item>Akfa Store</item>
+        <item>M/S ........</item>
+        <item>Other</item>
+
+    </array>
+
+    <array name="Genres">
+        <item>current Amount</item>
+    </array>
+
+    <array name="Genres1">
+        <item>previous Amount</item>
+    </array>
+
+
+</resources>

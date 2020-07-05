@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443846659121",
+    "firebase_url": "https://akfatraders-34f8a.firebaseio.com",
+    "project_id": "akfatraders-34f8a",
+    "storage_bucket": "akfatraders-34f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443846659121:android:1cb34fcff9af9276681910",
+        "android_client_info": {
+          "package_name": "com.example.akfatraders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443846659121-9aieufp7f4bbnpkmnqdgj6g90s3hg2bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQKERKXhjooJC__ezi-ZpiiVOpIsJMUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443846659121-9aieufp7f4bbnpkmnqdgj6g90s3hg2bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
